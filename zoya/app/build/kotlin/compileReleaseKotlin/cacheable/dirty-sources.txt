@@ -1,0 +1,17 @@
+C:\Users\HP\Downloads\workspace-019e3bcf-5357-72f5-8c96-6eceacf3073d\zoya\app\src\main\java\com\zoya\ai\live\LiveSession.kt
+C:\Users\HP\Downloads\workspace-019e3bcf-5357-72f5-8c96-6eceacf3073d\zoya\app\src\main\java\com\zoya\ai\ui\components\AudioVisualizer.kt
+C:\Users\HP\Downloads\workspace-019e3bcf-5357-72f5-8c96-6eceacf3073d\zoya\app\src\main\java\com\zoya\ai\ui\components\StatusIndicator.kt
+C:\Users\HP\Downloads\workspace-019e3bcf-5357-72f5-8c96-6eceacf3073d\zoya\app\src\main\java\com\zoya\ai\audio\AudioPlayer.kt
+C:\Users\HP\Downloads\workspace-019e3bcf-5357-72f5-8c96-6eceacf3073d\zoya\app\src\main\java\com\zoya\ai\ui\components\ModelSelector.kt
+C:\Users\HP\Downloads\workspace-019e3bcf-5357-72f5-8c96-6eceacf3073d\zoya\app\src\main\java\com\zoya\ai\data\FirestoreRepo.kt
+C:\Users\HP\Downloads\workspace-019e3bcf-5357-72f5-8c96-6eceacf3073d\zoya\app\src\main\java\com\zoya\ai\ui\pages\HistoryPage.kt
+C:\Users\HP\Downloads\workspace-019e3bcf-5357-72f5-8c96-6eceacf3073d\zoya\app\src\main\java\com\zoya\ai\ui\pages\SettingsPage.kt
+C:\Users\HP\Downloads\workspace-019e3bcf-5357-72f5-8c96-6eceacf3073d\zoya\app\src\main\java\com\zoya\ai\ui\theme\ZoyaTheme.kt
+C:\Users\HP\Downloads\workspace-019e3bcf-5357-72f5-8c96-6eceacf3073d\zoya\app\src\main\java\com\zoya\ai\viewmodel\ZoyaViewModel.kt
+C:\Users\HP\Downloads\workspace-019e3bcf-5357-72f5-8c96-6eceacf3073d\zoya\app\src\main\java\com\zoya\ai\ui\components\PowerButton.kt
+C:\Users\HP\Downloads\workspace-019e3bcf-5357-72f5-8c96-6eceacf3073d\zoya\app\src\main\java\com\zoya\ai\audio\AudioRecorder.kt
+C:\Users\HP\Downloads\workspace-019e3bcf-5357-72f5-8c96-6eceacf3073d\zoya\app\src\main\java\com\zoya\ai\MainActivity.kt
+C:\Users\HP\Downloads\workspace-019e3bcf-5357-72f5-8c96-6eceacf3073d\zoya\app\src\main\java\com\zoya\ai\data\Models.kt
+C:\Users\HP\Downloads\workspace-019e3bcf-5357-72f5-8c96-6eceacf3073d\zoya\app\src\main\java\com\zoya\ai\ui\MainScreen.kt
+C:\Users\HP\Downloads\workspace-019e3bcf-5357-72f5-8c96-6eceacf3073d\zoya\app\src\main\java\com\zoya\ai\ui\pages\AccessKeyScreen.kt
+C:\Users\HP\Downloads\workspace-019e3bcf-5357-72f5-8c96-6eceacf3073d\zoya\app\src\main\java\com\zoya\ai\ui\pages\HomePage.kt

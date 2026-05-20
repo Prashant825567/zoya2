@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zoya AI</string>
+    <string name="zoya">ZOYA</string>
+    <string name="ai_voice_assistant">AI Voice Assistant</string>
+    <string name="tap_to_wake">Hey! Tap to wake me up 💜</string>
+    <string name="waking_up">✨ Waking up…</string>
+    <string name="listening">🎧 Go ahead, I\'m all ears…</string>
+    <string name="speaking">💬 Hold on, talking…</string>
+    <string name="type_message">Type a message...</string>
+    <string name="select_model">Select Model</string>
+    <string name="choose_model">Choose which Gemini model to use</string>
+    <string name="recommended">Recommended</string>
+    <string name="legacy">Legacy</string>
+    <string name="live">Live</string>
+    <string name="offline">Offline</string>
+    <string name="tap_to_start">Tap the power button to start voice chat</string>
+    <string name="tap_to_disconnect">Tap again to disconnect</string>
+</resources>
